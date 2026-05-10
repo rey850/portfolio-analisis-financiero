@@ -37,7 +37,7 @@ Reportes y Visualización / Reports & Visualization
 
 Mercados / Markets
 - 🇲🇽 BMV — Bolsa Mexicana de Valores
-- 🇺🇸 NYSE / NASDAQ
+- 🇺🇸 NYSE / NASDAQ — Mercado estadounidense
 
 ---
 
